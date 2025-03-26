@@ -77,7 +77,7 @@ kiwisolver==1.4.5
 langchain==0.0.150
 langchainplus-sdk==0.0.17
 llvmlite==0.40.1
-lxml==4.9.2
+# lxml==4.9.2
 Markdown==3.4.3
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
