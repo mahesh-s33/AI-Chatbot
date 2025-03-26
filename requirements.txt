@@ -1,6 +1,7 @@
+pyarrow==19.0.1
 psycopg2-binary==2.9.10
 pure-eval==0.2.2
-pyarrow==12.0.1
+
 PyAudio==0.2.13
 pycparser==2.21
 pycryptodome==3.18.0
