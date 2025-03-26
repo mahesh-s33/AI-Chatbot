@@ -99,20 +99,17 @@ networkx==3.1
 numexpr==2.9.0
 olefile==0.46
 openai==1.14.1
-# openai-whisper==20230314
 openapi-schema-pydantic==1.2.4
 openpyxl==3.0.10
 packaging==23.2
 pandas==2.2.1
 pandas-stubs==2.0.2.230605
 parso==0.8.3
-pdfminer.six==20191110
 pickleshare==0.7.5
 Pillow==9.4.0
 platformdirs==4.2.0
 plotly==5.20.0
 pooch==1.8.1
-# prompt-toolkit==3.0.43
 protobuf==4.23.3
 psutil==5.9.8
 pyarrow==19.0.1
